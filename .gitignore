@@ -1,2 +1,7 @@
 venv
 trick.md
+data/csv_files
+data/parquet_files
+data/feature_definitions.csv
+data/sample_submission.csv
+*.zip
